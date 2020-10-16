@@ -1,3 +1,4 @@
+#Ejercicio 6
 from math import pi
 
 3.141592653589793

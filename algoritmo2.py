@@ -1,3 +1,4 @@
+#Ejercicio 2
 dolar = float(input("Ingrese el valor actual del dolar: "))
 cDolares = float(input("Ingrese la cantidad de Dolares para su conversión: "))
 cPesos = dolar*cDolares

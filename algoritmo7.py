@@ -1,3 +1,4 @@
+#Ejercicio 7
 import math
 
 cateto_opuesto= 20
@@ -9,4 +10,4 @@ tan = math.tan(angulo_elevacion)
 
 cateto_adyacente = cateto_opuesto/tan
 
-print("la longitud de la sombra", cateto_adyacente)
+print("la longitud de la sombra", cateto_adyacente, "metros")

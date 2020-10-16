@@ -1,3 +1,4 @@
+#Ejercicio 1
 base = float(input("La base del triangilo es: "))
 altura = float(input("La altura del triangilo es: "))
 area = base*altura/2
